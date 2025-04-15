@@ -230,8 +230,8 @@ Schiavina, M., Freire, S., Carioli, A., & MacManus, K. (2023). GHS-POP R2023A–
 - **Description:** Performance index ranging from 0 to 1 representing the Rural Cloud connectivity capabilities (low for low values, high for high values) on NUTS3 regions.** 
 - **Units:** 0 to 1 (performance values)
 
-30) column_name: Dominant_Crop_1
-Data Type: text
-Description: The most predominant crop cultivated within the NUTS3 region, based on production data originally reported at the NUTS2 level.
-Units: N/A
-Notes: Crop data was sourced from Eurostat’s “Crop production in national humidity by NUTS 2 region” dataset (https://ec.europa.eu/eurostat/databrowser/view/apro_cpnhr/default/table?lang=en). To assign crop dominance at the NUTS3 level, the dominant crop information from the NUTS2 polygon was spatially transferred to its corresponding NUTS3 polygons. This method assumes uniformity in crop distribution within each NUTS2 region.
+30) **column\_name: Dominant\_Crop\_1**
+- **Data Type**: text
+- **Description:**: The most predominant crop cultivated within the NUTS3 region, based on production data originally reported at the NUTS2 level.
+- **Units:** N/A
+- **Notes:** Crop data was sourced from Eurostat’s “Crop production in national humidity by NUTS 2 region” dataset (https://ec.europa.eu/eurostat/databrowser/view/apro_cpnhr/default/table?lang=en). To assign crop dominance at the NUTS3 level, the dominant crop information from the NUTS2 polygon was spatially transferred to its corresponding NUTS3 polygons. This method assumes uniformity in crop distribution within each NUTS2 region.
