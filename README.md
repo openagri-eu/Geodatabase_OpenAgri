@@ -235,3 +235,23 @@ Schiavina, M., Freire, S., Carioli, A., & MacManus, K. (2023). GHS-POP R2023A–
 - **Description:**: The most predominant crop cultivated within the NUTS3 region, based on production data originally reported at the NUTS2 level.
 - **Units:** N/A
 - **Notes:** Crop data was sourced from Eurostat’s “Crop production in national humidity by NUTS 2 region” dataset (https://ec.europa.eu/eurostat/databrowser/view/apro_cpnhr/default/table?lang=en). To assign crop dominance at the NUTS3 level, the dominant crop information from the NUTS2 polygon was spatially transferred to its corresponding NUTS3 polygons. This method assumes uniformity in crop distribution within each NUTS2 region.
+
+31) **column\_name: Dominant\_Crop\_2**
+- **Data Type**: text
+- **Description:**: The second most predominant crop cultivated within the NUTS3 region, based on production data originally reported at the NUTS2 level.
+- **Units:** N/A
+
+32) **column\_name: Dominant\_Crop\_3**
+- **Data Type**: text
+- **Description:**: The third most predominant crop cultivated within the NUTS3 region, based on production data originally reported at the NUTS2 level.
+- **Units:** N/A
+
+33) **column\_name: Dominant\_Crop\_4**
+- **Data Type**: text
+- **Description:**: The fourth most predominant crop cultivated within the NUTS3 region, based on production data originally reported at the NUTS2 level.
+- **Units:** N/A
+
+34) **column\_name: Dominant\_Crop\_5**
+- **Data Type**: text
+- **Description:**: The fifth most predominant crop cultivated within the NUTS3 region, based on production data originally reported at the NUTS2 level.
+- **Units:** N/A
