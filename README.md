@@ -17,7 +17,7 @@ Each polygon is attributed with:
 
 **Citation Guidelines**
 
-Users of this dataset are required to cite the article *"Geospatial Framework for Assessing the Suitability and Demand for Agricultural Digital Solutions in Europe: A Tool for Informed Decision-Making"* 
+Users of this dataset are required to cite the article *"Chalazas, T.; Koukourikos, A.; Bauwens, J.; Berkvens, N.; Van Beek, J.; Kalatzis, N.; Papadopoulos, G.; Ilias, P.; Marianos, N.; Brewster, C. Geospatial Framework for Assessing the Suitability and Demand for Agricultural Digital Solutions in Europe: A Tool for Informed Decision-Making. ISPRS Int. J. Geo-Inf. 2025, 14, 185. https://doi.org/10.3390/ijgi14050185"* 
 in any publication or project utilizing this data. 
 Additionally, detailed references to the original databases from which the environmental, socio-economic, 
 and connectivity variables were sourced are provided in the article and this documentation. 
