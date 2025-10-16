@@ -1,4 +1,4 @@
-# Geodatabase_OpenAgri
+# Geospatial database_OpenAgri
 
 This document provides metadata for the GeoPackage associated with the study titled 
 *"Geospatial Framework for Assessing the Suitability and Demand for Agricultural Digital Solutions in Europe: A Tool for Informed Decision-Making"*. 
